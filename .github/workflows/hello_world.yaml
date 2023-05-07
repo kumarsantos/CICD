@@ -1,4 +1,4 @@
-name: Hello world workflow
+name:  First Github Action
 
 on:
   workflow_dispatch:
